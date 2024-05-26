@@ -64,10 +64,10 @@ kütüphaneleri kullanılmıştır
 
 [Kümeleme](https://github.com/MOnursimsek/Makine-Ogrenmesi/tree/main/4-K%C3%BCmeleme)
 
-1.[K-Means ](https://github.com/MOnursimsek/Makine-Ogrenmesi/tree/main/4-K%C3%BCmeleme/4.1%20K-Means)
-2.[DBSCAN ](https://github.com/MOnursimsek/Makine-Ogrenmesi/tree/main/4-K%C3%BCmeleme/4.2%20DBSCAN)	
-3.[Mean Shift ](https://github.com/MOnursimsek/Makine-Ogrenmesi/tree/main/4-K%C3%BCmeleme/4.3%20Mean%20Shift)
-4.[Hierarchical ](https://github.com/MOnursimsek/Makine-Ogrenmesi/tree/main/4-K%C3%BCmeleme/4.4%20Hierarchical)
+1. [K-Means ](https://github.com/MOnursimsek/Makine-Ogrenmesi/tree/main/4-K%C3%BCmeleme/4.1%20K-Means)
+2. [DBSCAN ](https://github.com/MOnursimsek/Makine-Ogrenmesi/tree/main/4-K%C3%BCmeleme/4.2%20DBSCAN)	
+3. [Mean Shift ](https://github.com/MOnursimsek/Makine-Ogrenmesi/tree/main/4-K%C3%BCmeleme/4.3%20Mean%20Shift)
+4. [Hierarchical ](https://github.com/MOnursimsek/Makine-Ogrenmesi/tree/main/4-K%C3%BCmeleme/4.4%20Hierarchical)
 
 
 ###	5.	Bölüm  : İlişkilendirme
