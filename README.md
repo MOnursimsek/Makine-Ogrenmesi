@@ -32,11 +32,11 @@ kütüphaneleri kullanılmıştır
 ###	1.	Bölüm  : Makine Öğrenmesine Giriş
 1. Bölüm:  [Makine Öğrenmesine Giriş](https://github.com/MOnursimsek/Makine-Ogrenmesi/tree/main/1-Makine%20%C3%96%C4%9Frenmesine%20Giri%C5%9F) 
 
-1.1 [Makine Öğrenmesi Nedir](https://github.com/MOnursimsek/Makine-Ogrenmesi/blob/main/1-Makine%20%C3%96%C4%9Frenmesine%20Giri%C5%9F/1.1%20Makine%20%C3%96%C4%9Frenmesi%20Nedir.pdf)
-1.2	[Makine Öğrenmesi Temel Kavramlar](https://github.com/MOnursimsek/Makine-Ogrenmesi/blob/main/1-Makine%20%C3%96%C4%9Frenmesine%20Giri%C5%9F/1.2%20Makine%20%C3%96%C4%9Frenmesi%20Temel%20Kavramlar.pdf)
-1.3	[Makine Öğrenmesinde Karşılaşılan Zorluklar](https://github.com/MOnursimsek/Makine-Ogrenmesi/blob/main/1-Makine%20%C3%96%C4%9Frenmesine%20Giri%C5%9F/1.3%20Makine%20%C3%96%C4%9Frenmesinde%20Kar%C5%9F%C4%B1la%C5%9F%C4%B1lan%20Zorluklar.pdf)
-1.4	[Makine Öğerenmesi Türleri](https://github.com/MOnursimsek/Makine-Ogrenmesi/blob/main/1-Makine%20%C3%96%C4%9Frenmesine%20Giri%C5%9F/1.4%20Makine%20%C3%96%C4%9Ferenmesi%20T%C3%BCrleri.pdf)
-1.5	[Makine Öğrenmesi Algoritmaları](https://github.com/MOnursimsek/Makine-Ogrenmesi/blob/main/1-Makine%20%C3%96%C4%9Frenmesine%20Giri%C5%9F/1.5%20Makine%20%C3%96%C4%9Frenmesi%20Algoritmalar%C4%B1.pdf)
+1. [Makine Öğrenmesi Nedir](https://github.com/MOnursimsek/Makine-Ogrenmesi/blob/main/1-Makine%20%C3%96%C4%9Frenmesine%20Giri%C5%9F/1.1%20Makine%20%C3%96%C4%9Frenmesi%20Nedir.pdf)
+2. [Makine Öğrenmesi Temel Kavramlar](https://github.com/MOnursimsek/Makine-Ogrenmesi/blob/main/1-Makine%20%C3%96%C4%9Frenmesine%20Giri%C5%9F/1.2%20Makine%20%C3%96%C4%9Frenmesi%20Temel%20Kavramlar.pdf)
+3. [Makine Öğrenmesinde Karşılaşılan Zorluklar](https://github.com/MOnursimsek/Makine-Ogrenmesi/blob/main/1-Makine%20%C3%96%C4%9Frenmesine%20Giri%C5%9F/1.3%20Makine%20%C3%96%C4%9Frenmesinde%20Kar%C5%9F%C4%B1la%C5%9F%C4%B1lan%20Zorluklar.pdf)
+4. [Makine Öğerenmesi Türleri](https://github.com/MOnursimsek/Makine-Ogrenmesi/blob/main/1-Makine%20%C3%96%C4%9Frenmesine%20Giri%C5%9F/1.4%20Makine%20%C3%96%C4%9Ferenmesi%20T%C3%BCrleri.pdf)
+5. [Makine Öğrenmesi Algoritmaları](https://github.com/MOnursimsek/Makine-Ogrenmesi/blob/main/1-Makine%20%C3%96%C4%9Frenmesine%20Giri%C5%9F/1.5%20Makine%20%C3%96%C4%9Frenmesi%20Algoritmalar%C4%B1.pdf)
 
 
 ###	2.	Bölüm   : Regresyon
